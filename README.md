@@ -1,5 +1,4 @@
 # Gaussian Elimination
-
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Equipments Required:
@@ -9,13 +8,10 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Algorithm
 ## Step 1:
 Import the numpy module to use the built in function for calculation.
-
 ## Step 2:
 Import the sys function. Get input from the user for the matrix i and j using for loop.
-
 ## Step 3:
 Check wheather the matrix of element is divisible by zero. If divisible by zero then print zero is detected. And further find the ratio of the matrix.
-
 ## Step 4:
 End the program. 
 

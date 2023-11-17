@@ -9,6 +9,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
+
 ## Step 1:
 Import the numpy module to use the built in function for calculation.
 
@@ -20,6 +21,7 @@ Check wheather the matrix of element is divisible by zero. If divisible by zero 
 
 ## Step 4:
 End the program. 
+
 
 ## Program:
 ```

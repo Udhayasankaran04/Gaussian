@@ -2,13 +2,11 @@
 
 ## AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
-
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-
 ## Step 1:
 Import the numpy module to use the built in function for calculation.
 

@@ -24,8 +24,6 @@ End the program.
 ## Program:
 ```
 /*
-
-
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: M UDHAYA SANKARAN
 RegisterNumber: 212222110051

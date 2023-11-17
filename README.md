@@ -1,4 +1,3 @@
-
 # Gaussian Elimination
 
 ## AIM:
@@ -21,7 +20,6 @@ Check wheather the matrix of element is divisible by zero. If divisible by zero 
 
 ## Step 4:
 End the program. 
-
 
 ## Program:
 ```

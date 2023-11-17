@@ -8,16 +8,16 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-## STEP 1:
+## Step 1:
 Import the numpy module to use the built in function for calculation.
 
-## STEP 2:
+## Step 2:
 Import the sys function. Get input from the user for the matrix i and j using for loop.
 
-## STEP 3:
+## Step 3:
 Check wheather the matrix of element is divisible by zero. If divisible by zero then print zero is detected. And further find the ratio of the matrix.
 
-## STEP 4:
+## Step 4:
 End the program. 
 
 ## Program:
